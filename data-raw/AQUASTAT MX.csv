@@ -1,0 +1,146 @@
+﻿,,DATA,,,,,,,,,,,
+,,1958-1962,1963-1967,1968-1972,1973-1977,1978-1982,1983-1987,1988-1992,1993-1997,1998-2002,2003-2007,2008-2012,2013-2017
+Mexico,Total area of the country (excl. coastal waters) (1000 ha),196438,196438,196438,196438,196438,196438,196438,196438,196438,196438,196438,196438
+Mexico,Arable land area (1000 ha),19340,18930,17684,17782,17795,19234,22429,22785,23184,23519,23150,22562
+Mexico,Permanent crops area (1000 ha),1340,1410,1525,1624,2005,2236,2328,2397,2524,2626,2658,2625
+Mexico,Cultivated area (arable land + permanent crops) (1000 ha),20680,20340,19209,19406,19800,21470,24757,25182,25708,26145,25808,25187
+Mexico,% of total country area cultivated (%),10.53,10.35,9.779,9.879,10.08,10.93,12.6,12.82,13.09,13.31,13.14,12.82
+Mexico,Total population (1000 inhab),40650,47430,55478,64346,72603,80503,88828,97282,104356,111836,120828,129163
+Mexico,Rural population (1000 inhab),19032,20118,21340,22438,23124,23834,24015,24116,23924,24505,26075,27040
+Mexico,Urban population (1000 inhab),21618,27312,34138,41908,49479,56669,64813,73166,80432,87331,94753,102123
+Mexico,Population density (inhab/km2),20.69,24.15,28.24,32.76,36.96,40.98,45.22,49.52,53.12,56.93,61.51,65.75
+Mexico,Gross Domestic Product (GDP) (current US$),1.52E+10,2.66E+10,4.52E+10,8.18E+10,1.74E+11,1.40E+11,3.64E+11,4.81E+11,7.42E+11,1.04E+12,1.19E+12,1.14E+12
+Mexico,GDP per capita (current US$/inhab),374.4,559.9,814.3,1272,2397,1739,4098,4944,7110,9299,9849,8826
+Mexico,"Agriculture, value added (% GDP) (%)",,12.29,11.52,11.16,8.143,9.679,6.684,4.375,3.576,3.32,3.521,3.706
+Mexico,Human Development Index (HDI) [highest = 1] (-),,,,,,,0.6476,,0.699,,0.7542,0.7562
+Mexico,Gender Inequality Index (GII) [equality = 0; inequality = 1) (-),,,,,,,,,0.494,0.428,0.407,0.3728
+Mexico,Prevalence of undernourishment (3-year average) (%),,,,,,,6.9,6.1,5,5.3,,
+Mexico,Number of people undernourished (3-year average) (1000 inhab),,,,,,,6000,5900,5100,5900,,
+Mexico,Long-term average annual precipitation in depth (mm/year),758,758,758,758,758,758,758,758,758,758,758,758
+Mexico,Long-term average annual precipitation in volume (10^9 m3/year),1489,1489,1489,1489,1489,1489,1489,1489,1489,1489,1489,1489
+Mexico,National Rainfall Index (NRI) (mm/year),,1189,1241,1180,1161,1116,1199,1171,1052,,,
+Mexico,Surface water produced internally (10^9 m3/year),350,350,350,350,350,350,350,350,350,350,350,350
+Mexico,Groundwater produced internally (10^9 m3/year),150,150,150,150,150,150,150,150,150,150,150,150
+Mexico,Overlap between surface water and groundwater (10^9 m3/year),91,91,91,91,91,91,91,91,91,91,91,91
+Mexico,Total internal renewable water resources (IRWR) (10^9 m3/year),409,409,409,409,409,409,409,409,409,409,409,409
+Mexico,Total internal renewable water resources per capita (m3/inhab/year),10062,8623,7372,6356,5633,5081,4604,4204,3919,3657,3385,3167
+Mexico,Surface water: entering the country (total) (10^9 m3/year),53.31,53.31,53.31,53.31,53.31,53.31,53.31,53.31,53.31,53.31,53.31,53.31
+Mexico,Surface water: inflow not submitted to treaties (10^9 m3/year),51.47,51.47,51.47,51.47,51.47,51.47,51.47,51.47,51.47,51.47,51.47,51.47
+Mexico,Surface water: inflow submitted to treaties (10^9 m3/year),1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85
+Mexico,Surface water: inflow secured through treaties (10^9 m3/year),1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85
+Mexico,Surface water: total flow of border rivers (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+Mexico,Surface water: accounted flow of border rivers (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+Mexico,Surface water: accounted inflow (10^9 m3/year),53.32,53.32,53.32,53.32,53.32,53.32,53.32,53.32,53.32,53.32,53.32,53.32
+Mexico,Surface water: leaving the country to other countries (total) (10^9 m3/year),19.14,19.14,19.14,19.14,19.14,19.14,19.14,19.14,19.14,19.14,19.14,19.14
+Mexico,Surface water: outflow to other countries not submitted to treaties (10^9 m3/year),18.71,18.71,18.71,18.71,18.71,18.71,18.71,18.71,18.71,18.71,18.71,18.71
+Mexico,Surface water: outflow to other countries submitted to treaties (10^9 m3/year),0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432
+Mexico,Surface water: outflow to other countries secured through treaties (10^9 m3/year),0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432,0.432
+Mexico,Surface water: total external renewable (10^9 m3/year),52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88
+Mexico,Groundwater: entering the country (total) (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+Mexico,Groundwater: accounted inflow (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+Mexico,Groundwater: leaving the country to other countries (total) (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+Mexico,Groundwater: accounted outflow to other countries (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+Mexico,Water resources: total external renewable (10^9 m3/year),52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88,52.88
+Mexico,Total renewable surface water (10^9 m3/year),402.9,402.9,402.9,402.9,402.9,402.9,402.9,402.9,402.9,402.9,402.9,402.9
+Mexico,Total renewable groundwater (10^9 m3/year),150,150,150,150,150,150,150,150,150,150,150,150
+Mexico,Overlap: between surface water and groundwater (10^9 m3/year),91,91,91,91,91,91,91,91,91,91,91,91
+Mexico,Total renewable water resources (10^9 m3/year),461.9,461.9,461.9,461.9,461.9,461.9,461.9,461.9,461.9,461.9,461.9,461.9
+Mexico,Dependency ratio (%),11.53,11.53,11.53,11.53,11.53,11.53,11.53,11.53,11.53,11.53,11.53,11.53
+Mexico,Total renewable water resources per capita (m3/inhab/year),11363,9739,8326,7178,6362,5738,5200,4748,4426,4130,3823,3576
+Mexico,Interannual variability (WRI) (-),,,,,,,,,,,,2.5
+Mexico,Seasonal variability (WRI) (-),,,,,,,,,,,,3.1
+Mexico,Total dam capacity (km3),,,,,,,,,150,,150,
+Mexico,Dam capacity per capita (m3/inhab),,,,,,,,,1437,,1241,
+Mexico,Agricultural water withdrawal (10^9 m3/year),,,,,,,,62.5,56.1,60.57,63.35,66.05
+Mexico,Industrial water withdrawal (10^9 m3/year),,,,,,,,,6.9,7.22,7.403,7.951
+Mexico,Municipal water withdrawal (10^9 m3/year),,,,,,,,,9.6,11.16,11.98,12.58
+Mexico,Total water withdrawal (10^9 m3/year),,,,,56,,,,72.6,78.95,82.73,86.58
+Mexico,Irrigation water withdrawal (10^9 m3/year),,,,,,,,,,58.78,59.38,
+Mexico,Irrigation water requirement (10^9 m3/year),,,,,,,,40,,26.03,,
+Mexico,Agricultural water withdrawal as % of total water withdrawal (%),,,,,,,,,77.27,76.72,76.57,76.29
+Mexico,Industrial water withdrawal as % of total water withdrawal (%),,,,,,,,,9.504,9.145,8.948,9.183
+Mexico,Municipal water withdrawal as % of total withdrawal (%),,,,,,,,,13.22,14.14,14.48,14.53
+Mexico,Total water withdrawal per capita (m3/inhab/year),,,,,771.3,,,,695.7,705.9,684.7,670.3
+Mexico,Environmental Flow Requirements (10^9 m3/year),195.3,195.3,195.3,195.3,195.3,195.3,195.3,195.3,195.3,195.3,195.3,195.3
+Mexico,Fresh surface water withdrawal (primary and secondary) (10^9 m3/year),,,,,39.34,,,,46.7,49.86,50.95,52.35
+Mexico,Fresh groundwater withdrawal (primary and secondary) (10^9 m3/year),,,,,16.63,,,,25.6,28.79,31.78,33.31
+Mexico,Total freshwater withdrawal (primary and secondary) (10^9 m3/year),,,,,55.97,,,,72.3,78.65,81.91,85.68
+Mexico,Desalinated water produced (10^9 m3/year),,,,,0.0307,0.0307,0.0307,,0.0191,0.0191,0.0191,
+Mexico,Direct use of treated municipal wastewater (10^9 m3/year),,,,,,,,,0.28,,0.804,0.8982
+Mexico,Produced municipal wastewater (10^9 m3/year),,,,,,,,7.3,,,7.458,7.22
+Mexico,Collected municipal wastewater (10^9 m3/year),,,,,,,,5.5,,6.528,6.626,6.692
+Mexico,Treated municipal wastewater (10^9 m3/year),,,,,,,,1.92,2.596,2.48,3.081,3.897
+Mexico,Number of municipal wastewater treatment facilities (-),,,,,,,,,,1360,2289,
+Mexico,Capacity of the municipal wastewater treatment facilities (10^9 m3/year),,,,,,,,,,2.914,4.323,4.8
+Mexico,Not treated municipal wastewater (10^9 m3/year),,,,,,,,6.77,,,4.377,3.92
+Mexico,Treated municipal wastewater discharged (secondary water) (10^9 m3/year),,,,,,,,,1.7,,2.277,
+Mexico,Not treated municipal wastewater discharged (secondary water) (10^9 m3/year),,,,,,,,6.8,,,,
+Mexico,Direct use of treated municipal wastewater (10^9 m3/year),,,,,,,,,0.28,,0.804,0.8982
+Mexico,Direct use of treated municipal wastewater for irrigation purposes (10^9 m3/year),,,,,,,,,,1.16,0.401,
+Mexico,Direct use of not treated municipal wastewater for irrigation purposes (10^9 m3/year),,,,,,,,,,4.33,,
+Mexico,Area equipped for irrigation by direct use of treated municipal wastewater (1000 ha),,,,,,,,,,,70,
+Mexico,Area equipped for irrigation by direct use of not treated municipal wastewater (1000 ha),,,,,,,85,,273,,387.6,
+Mexico,MDG 7.5. Freshwater withdrawal as % of total renewable water resources (%),,,,,12.12,,,,15.65,17.03,17.73,18.55
+Mexico,Agricultural water withdrawal as % of total renewable water resources (%),,,,,,,,13.53,12.15,13.11,13.72,14.3
+Mexico,SDG 6.4.2. Water Stress (%),,,,,20.99,,,,27.12,29.5,30.72,32.14
+Mexico,Irrigation potential (1000 ha),9766,9766,9766,9766,9766,9766,9766,9766,9766,9766,9766,9766
+Mexico,Area equipped for full control irrigation: surface irrigation (1000 ha),,,,,,,,5802,,,5168,
+Mexico,Area equipped for full control irrigation: sprinkler irrigation (1000 ha),,,,,,,,310.8,,,,
+Mexico,Area equipped for full control irrigation: localized irrigation (1000 ha),,,,,2,12.68,60.6,143.1,,,,
+Mexico,Area equipped for full control irrigation: total (1000 ha),,,,,,,,6256,6300,6320,6460,7226
+Mexico,Area equipped for full control irrigation: actually irrigated (1000 ha),,,,,,,5150,5505,,5439,,6792
+Mexico,% of area equipped for full control irrigation actually irrigated (%),,,,,,,,88,,86.06,,93.99
+Mexico,Area equipped for irrigation: total (1000 ha),,,,,,,,6256,6300,6320,6460,7226
+Mexico,Area equipped for irrigation: actually irrigated (1000 ha),,,,,,,5150,5505,,5439,,
+Mexico,% of the area equipped for irrigation actually irrigated (%),,,,,,,,88,,86.06,,
+Mexico,% of the cultivated area equipped for irrigation (%),,,,,,,,24.84,24.51,24.17,25.03,28.69
+Mexico,% of irrigation potential equipped for irrigation (%),,,,,,,,64.06,64.51,64.71,66.15,73.99
+Mexico,Total agricultural water managed area (1000 ha),,,,,,,,6256,6300,6320,6460,7226
+Mexico,% of agricultural water managed area equipped for irrigation (%),,,,,,,,100,100,100,100,100
+Mexico,Area equipped for irrigation by surface water (1000 ha),,,,,,,,4129,,,3876,
+Mexico,Area equipped for irrigation by groundwater (1000 ha),,,,,,,,1689,,,2196,
+Mexico,Area equipped for irrigation by mixed surface water and groundwater (1000 ha),,,,,,,,437.9,,,,
+Mexico,Area equipped for irrigation by direct use of treated municipal wastewater (1000 ha),,,,,,,,,,,70,
+Mexico,Area equipped for irrigation by direct use of non-treated municipal wastewater  (1000 ha),,,,,,,85,,273,,387.6,
+Mexico,% of area equipped for irrigation by surface water (%),,,,,,,,66,,,60,
+Mexico,% of area equipped for irrigation by groundwater  (%),,,,,,,,27,,,33.99,
+Mexico,% of area equipped for irrigation by mixed surface water and groundwater (%),,,,,,,,7,,,,
+Mexico,% of area equipped for irrigation by direct use of  treated municipal wastewater (%),,,,,,,,,,,1.084,
+Mexico,% of area equipped for irrigation by direct use of non-treated municipal wastewater (%),,,,,,,,,4.333,,6,
+Mexico,Area equipped for power irrigation (surface water or groundwater) (1000 ha),,,,,,,,2064,,,,
+Mexico,% of area equipped for irrigation power irrigated (%),,,,,,,,32.99,,,,
+Mexico,Total harvested irrigated crop area (full control irrigation) (1000 ha),,,,,,,,5697,,5457,5967,6808
+Mexico,Harvested irrigated temporary crop area: Total (1000 ha),,,,,,,,4102,,3919,4285,
+Mexico,Harvested irrigated permanent crop area: Total (1000 ha),,,,,,,,1595,,1538,1682,
+Mexico,Irrigated cropping intensity (%),,,,,,,,103.5,,100.3,,100.2
+Mexico,Harvested irrigated temporary crop area: Wheat (1000 ha),,,,,,,,651.9,,597,,
+Mexico,Harvested irrigated temporary crop area: Rice (1000 ha),,,,,,,,41.89,,66,,
+Mexico,Harvested irrigated temporary crop area: Barley (1000 ha),,,,,,,,,,195,,
+Mexico,Harvested irrigated temporary crop area: Maize (1000 ha),,,,,,,,1428,,1349,,
+Mexico,Harvested irrigated temporary crop area: Sorghum (1000 ha),,,,,,,,319.9,,718,,
+Mexico,Harvested irrigated temporary crop area: Other cereals (1000 ha),,,,,,,,,,55,3208,
+Mexico,Harvested irrigated temporary crop area: Vegetables (1000 ha),,,,,,,,,,562.2,513.9,
+Mexico,Harvested irrigated temporary crop area: Soybeans (1000 ha),,,,,,,,,,85.71,76.84,
+Mexico,Harvested irrigated temporary crop area: Leguminous crops (1000 ha),,,,,,,,300,,,,
+Mexico,Harvested irrigated temporary crop area: Sugarcane (1000 ha),,,,,,,,220.9,,321.3,258.5,
+Mexico,Harvested irrigated temporary crop area: Fodder (1000 ha),,,,,,,,243.8,,,,
+Mexico,Harvested irrigated temporary crop area: Cotton (1000 ha),,,,,,,,,,110.9,157.8,
+Mexico,Harvested irrigated temporary crop area: Flowers (1000 ha),,,,,,,,,,9.474,8.033,
+Mexico,Harvested irrigated temporary crop area: Other crops (1000 ha),,,,,,,,220.9,,105.6,62.03,
+Mexico,Harvested irrigated permanent crop area: Citrus (1000 ha),,,,,,,,,,195,182.3,
+Mexico,Harvested irrigated permanent crop area: Other fruits (1000 ha),,,,,,,,,,280.4,299.4,
+Mexico,Harvested irrigated permanent crop area: Grass and Fodder (1000 ha),,,,,,,,,,935.3,1200,
+Mexico,% of total grain production irrigated (%),,,,,,,,42,,,,
+Mexico,Area equipped for irrigation drained (1000 ha),,,,,,,,2783,,,,
+Mexico,Non-irrigated cultivated area drained (1000 ha),,,,,,,,2420,,,,
+Mexico,Total cultivated area drained (1000 ha),,,,,,,,5203,,,,
+Mexico,% of area equipped for irrigation drained (%),,,,,,,,44.49,,,,
+Mexico,% of total cultivated area drained (%),,,,,,,,20.66,,,,
+Mexico,Conservation agriculture area (1000 ha),,,,,,,,,,22.8,41,
+Mexico,Conservation agriculture area as % of arable land area (%),,,,,,,,,,0.0969,0.1771,
+Mexico,Area salinized by irrigation (1000 ha),,,,,,,,384.2,,,,
+Mexico,% of area equipped for irrigation salinized (%),,,,,,,,6.141,,,,
+Mexico,Flood occurrence (WRI) (-),,,,,,,,,,,,2.9
+Mexico,Total population with access to safe drinking-water (JMP) (%),,,,,,,83.6,86.8,89.7,92.5,95.1,96.1
+Mexico,Rural population with access to safe drinking-water (JMP) (%),,,,,,,62.1,68.9,75.7,82.6,89.4,92.1
+Mexico,Urban population with access to safe drinking-water (JMP) (%),,,,,,,91.9,93.1,94.3,95.5,96.7,97.2
