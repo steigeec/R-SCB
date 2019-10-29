@@ -1,4 +1,5 @@
 # R-SCB
+
 2 hour workshop for UC Berkeley Society for Conservation Biology
 
 ## Installations
@@ -7,7 +8,7 @@
 
 Before the workshop be sure to download these three items:
 
-1. [Click here to download R version 3.5 or greater](https://cloud.r-project.org/)  
+1. [Click here to download R version 3.6.1](https://cloud.r-project.org/)  
 
 2. [Click here to download RStudio Desktop Open Source License Free](https://rstudio.com/products/rstudio/download/)  
 
@@ -19,8 +20,7 @@ Before the workshop be sure to download these three items:
 
 #### Package installation
 
-Be sure to run the code 
-
+Be sure to run lines 7 through 18 in the file "1-package-installation.Rmd" to install the packages to be used in this workshop. 
 
 ## Topics
 
@@ -35,12 +35,15 @@ Be sure to run the code
 
 2. Variable assignment
 
+- How to save data in R's memory
+
 3. Data types
+
+- Numeric, integer, character, logical, factor
 
 4. Data structures
 
-5. XXX
-Prevalence, mean abundance, and mean intensity
+- Emphasis on vectors and data frames
 
 5. Data visualization with ggplot2
 - Histograms  
@@ -53,8 +56,9 @@ Prevalence, mean abundance, and mean intensity
 
 6. Maps
 - ggplot2  
-- simple features  
-- leaflet  
+- ggmap
+  - How to enable Google Maps Static API key (bring credit card - do not worry you will not be charged!)
+- simple features (going further)
 
 ## Web resources
 
