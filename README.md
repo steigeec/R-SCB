@@ -86,6 +86,8 @@ Paradis E. 2019. [Moran's Autocorrelation Coefficient in Comparative Methods](ht
 
 BIOL 540 [Montana State University R Labs for Community Ecologists](http://ecology.msu.montana.edu/labdsv/R/)  
 
+[dkahle/ggmap. 2019](https://github.com/dkahle/ggmap)  
+
 [Simple features vignette. 2019.](https://r-spatial.github.io/sf/articles/sf1.html)  
 
 ## D-Lab workshops
