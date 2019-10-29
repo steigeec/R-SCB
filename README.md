@@ -30,11 +30,11 @@ Be sure to run lines 7 through 21 in the file "1-package-installation.Rmd" to in
 - Upper right = global environment (saved variables/data live here)  
 - Bottom right = File structure, plots, package installation, help  
 
-1. Variable assignment
+2. Variable assignment
 
 - How to save data in R's memory. Variables are simply placeholders for variables and data! 
 
-2. The data
+3. The data
 
 - [Aquastat datasets for Mexico, USA, and Canada](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)  
 
@@ -43,15 +43,15 @@ Be sure to run lines 7 through 21 in the file "1-package-installation.Rmd" to in
 - gbif citation guidelines: https://www.gbif.org/citation-guidelines  
 - citation: GBIF.org (23 October 2019) GBIF Occurrence Download   https://doi.org/10.15468/dl.jgjalb
 
-3. Data types
+4. Data types
 
 - Numeric, integer, character, logical, factor
 
-4. Data structures
+5. Data structures
 
 - Emphasis on vectors and data frames
 
-5. Data visualization with ggplot2
+6. Data visualization with ggplot2
 - Histograms  
 - Boxplots  
 - Scatterplots  
@@ -60,7 +60,7 @@ Be sure to run lines 7 through 21 in the file "1-package-installation.Rmd" to in
 - PCA example
 - Clustering example
 
-6. Maps
+7. Maps
 - ggplot2  
 - ggmap
   - How to enable Google Maps Static API key (bring credit card - do not worry you will not be charged!)
