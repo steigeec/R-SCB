@@ -25,6 +25,7 @@ If asked "Do you want to install from sources the packages which need compilatio
 
 If you are asked to update any packages, type 1 and press enter
 
+# `library` these packages to import them into our current R session
 
 ```{r}
 suppressMessages(suppressWarnings({  
@@ -41,6 +42,5 @@ suppressMessages(suppressWarnings({
 }))
 ```
 
-If ggmap does not install properly, try
-
+If ggmap does not install properly or otherwise causes errors, try:  
 devtools::install_github("dkahle/ggmap")
