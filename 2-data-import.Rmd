@@ -1,0 +1,68 @@
+# Basics and data import
+
+## 1. Navigating RStudio
+- Top left window pane = input (script or markdown); enter your code here - it is easy to save :^)  
+- Bottom right = output (console); noodle around down here - this is difficult to save :^(  
+- Upper right = global environment (saved variables/data live here)  
+- Bottom right = File structure, plots, package installation, help  
+
+## 2. Variable assignment
+
+Variable assignment is how we save data in R's memory. Variables are simply placeholders for data! These variables live in the global environment.
+
+```{r}
+
+
+
+```
+
+## 3. The data
+
+The data can be found in the data-raw folder. There are three Aquastat datasets and one GBIF dataset.
+
+- [Aquastat datasets for Mexico, USA, and Canada](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)  
+
+Load the Aquastat datasets
+```{r}
+
+
+
+```
+
+- The [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/occurrence/download?dataset_key=8a863029-f435-446a-821e-275f4f641165) (Observation.org, Nature data from the Netherlands simple occurrences; login required)
+- GBIF data user agreement: https://www.gbif.org/terms/data-user  
+- GBIF citation guidelines: https://www.gbif.org/citation-guidelines  
+- citation: GBIF.org (23 October 2019) GBIF Occurrence Download   https://doi.org/10.15468/dl.jgjalb  
+
+Load the gbif dataset (subset of first 1000 rows only)
+```{r}
+
+
+
+```
+
+> NOTE: you can also use the "Import Dataset" button on the Environment tab to import the data if read.csv does not make any sense! 
+
+Inspect the Aquastat datasets
+
+```{r}
+
+
+```
+
+Merge the Aquastat datasets into one
+
+Inspect the GBIF dataset
+
+```{r}
+
+
+
+```
+
+Save these variables for future use :) 
+```{r}
+
+
+
+```

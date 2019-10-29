@@ -1,0 +1,35 @@
+# Data types and structures
+
+Load the Aquastat data by loading the .RData file from the end of 2-data-import.Rmd
+
+```{r}
+
+```
+
+# 4. Data types
+
+1. Numeric: The default class for all numbers (even those that appear [but are not] integers)  
+2. Integer: Whole numbers (positive and negative) including zero  
+3. Character: String aka text data; always wrapped in quotations
+4. Logical: TRUE or FALSE only
+5. Factor: categorical type
+
+```{r}
+
+
+
+```
+
+
+# 5. Data structures
+
+1. Vector: an ordered group of the same type of data  
+2. List: an ordered group of different types of data (not covered here)  
+3. Matrix: a vector organized into rows and columns (not covered here)  
+4. Data frame: a list of equal-length vectors 
+
+```{r}
+
+
+
+```

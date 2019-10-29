@@ -1,0 +1,75 @@
+# gg Visualizations
+
+Load the Aquastat data by loading the .RData file from the end of 2-data-import.Rmd
+
+```{r}
+
+```
+
+## 6. Data visualization with ggplot2
+
+ggplot2 works in layers - each time you want to add something, add another layer by typing the `+` symbol at the end of a line of runnable code - this keeps the chain of layers looking like one single image.  
+
+You need three things to make a ggplot:  
+1. data  
+2. "aes"thetics - here you define your x and y coordinate systems, map colors to points, etc.  
+3. "geom_"s - how the data should be represented on the plot (points, boxes, bars, lines, ribbons, polygons, etc.)  
+
+>Don't forget! ggplot2 is the package name, but ggplot is the function call!
+
+### Creating the base layer
+
+```{r}
+
+
+
+```
+
+### Histogram
+
+A histogram is useful to visualize the distribution of a single continuous (i.e., numeric or integer) variable
+
+```{r}
+
+
+
+```
+
+### Boxplot
+
+A boxplot can also be used to visualize the distribution of a single continuous variable. However, boxplots are handy because we can do this for multiple levels of a factor
+
+```{r}
+
+
+
+```
+
+### Scatterplot
+
+A scatterplot is useful to visualize two continuous variables
+
+```{r}
+
+
+
+```
+
+##### Facetting
+
+Facetting is useful when you want to turn an overlaid graph into separate panels for each level of a factor. 
+
+```{r}
+
+
+
+```
+
+##### Subplotting
+
+The cowplot package allows you to add whichever sub-figures you choose a single figure. 
+
+```{r}
+
+
+```
