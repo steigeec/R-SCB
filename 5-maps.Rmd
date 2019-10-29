@@ -54,10 +54,24 @@ ggmap::register_google(key = "YOUR API KEY HERE")
 ```
 
 ```{r}
-# choose the lat/lon from the first row in the gbif dataset
+# choose the lat/lon from the first row in the gbif dataset as the center point
+# you might want to find something more central! 
 ggmap(get_googlemap(center = c(lon = 5.55, lat = 52.00),
                     zoom = 8, scale = 2,
-                    maptype ='terrain',
-                    color = 'color'))
+                    maptype = "terrain",
+                    color = "color"))
 ```
 
+Now, we can plot the rest of the data on the Google Map
+
+```{r}
+gbif_center_point = c(lon = 5.55, lat = 52.00)
+
+gbif_map = get_map(gbif_center_point) 
+
+ggmap(gbif_map)
+
+ggmap(gbif_map) + 
+  geom_point(data = g, 
+             aes(x = decimalLongitude, y = decimalLatitude, 
+                 col=kingdom))
