@@ -1,6 +1,6 @@
 # Package installation
 
-Run the below code to install 
+Run the below code to install the packages for this workshop.
 
 ```{r}
   # This make take a few minutes to complete
@@ -12,7 +12,10 @@ Run the below code to install
                      "ape", "pvclust", 
                      
                      # Map stuff
-                     "ggmap", "sf", "units", "tmap", "nngeo", "raster"), 
+                     "ggmap", 
+                     
+                     # If we have time...
+                     "sf", "units", "tmap", "nngeo", "raster"), 
                      
                      # Install package dependencies
                      dependencies = TRUE)
