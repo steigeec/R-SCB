@@ -25,48 +25,22 @@ Be sure to run lines 7 through 21 in the file "1-package-installation.Rmd" to in
 ## Topics
 
 1. Navigating RStudio
-- Top left window pane = input (script or markdown); enter your code here - it is easy to save :^)  
-- Bottom right = output (console); noodle around down here - this is difficult to save :^(  
-- Upper right = global environment (saved variables/data live here)  
-- Bottom right = File structure, plots, package installation, help  
 
 2. Variable assignment
 
-- How to save data in R's memory. Variables are simply placeholders for variables and data! 
-
 3. The data
-
-- [Aquastat datasets for Mexico, USA, and Canada](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)  
-
-- [GBIF ](https://www.gbif.org/occurrence/download?dataset_key=8a863029-f435-446a-821e-275f4f641165) (Observation.org, Nature data from the Netherlands simple occurrences; login required)
-- gbif data user agreement: https://www.gbif.org/terms/data-user  
-- gbif citation guidelines: https://www.gbif.org/citation-guidelines  
-- citation: GBIF.org (23 October 2019) GBIF Occurrence Download   https://doi.org/10.15468/dl.jgjalb
 
 4. Data types
 
-- Numeric, integer, character, logical, factor
-
 5. Data structures
 
-- Emphasis on vectors and data frames
-
 6. Data visualization with ggplot2
-- Histograms  
-- Boxplots  
-- Scatterplots  
-  - Facetting
-  - Subplotting
-- PCA example
-- Clustering example
 
-7. Maps
-- ggplot2  
-- ggmap
-  - How to enable Google Maps Static API key (bring credit card - do not worry you will not be charged!)
-- simple features (going further)
+7. Maps (ggplot2, ggmap, Google Maps Static API keys)
 
-## Web resources
+8. Going further (simple features, machine learning)
+
+## Resources
 
 #### Basic statistics
 
@@ -84,13 +58,15 @@ Chollet F, JJ Allaire. 2018. [Deep Learning with R](https://www.amazon.com/Deep-
 
 Lai J, CJ Lortie, RA Muenchen, J Yang, K Ma. 2019. [Evaluating the popularity of R in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2567)  
 
-Kindt R, R Coe. 2005. [Tree diversity analysis: A manual and software for common statistical methods for ecological and biodiversity studies](http://old.worldagroforestry.org/downloads/Publications/PDFS/b13695.pdf)  
-
 Rózsa L, J Reiczigel, G Majoros. 2000. [Quantifying parasites in samples of hosts](http://zoologia.hu/list/quant_large.pdf)  
 
 Bush AO, Lafferty KD, Lotz JM, Shostak AW. 1997. [Parasitology meets ecology on its own terms: Margolis et al. revisited](https://www.ncbi.nlm.nih.gov/pubmed/9267395) (broken link)  
 
 Komonen A, M Elo. 2017. [Ecological response hides behind the species abundance distribution: Community response to low‐intensity disturbance in managed grasslands](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3395)  
+
+Kindt R, R Coe. 2005. [Tree diversity analysis: A manual and software for common statistical methods for ecological and biodiversity studies](http://old.worldagroforestry.org/downloads/Publications/PDFS/b13695.pdf)  
+
+[Oklahoma State University - Ordination Methods for Ecologists](http://ordination.okstate.edu/)  
 
 Mensh B, K Kording. 2017. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)  
 
@@ -108,9 +84,9 @@ Paradis E and K Schliep. 2019. [ape homepage](http://ape-package.ird.fr/)
 
 Paradis E. 2019. [Moran's Autocorrelation Coefficient in Comparative Methods](https://cran.r-project.org/web/packages/ape/vignettes/MoranI.pdf)  
 
-[Oklahoma State University - Ordination Methods for Ecologists](http://ordination.okstate.edu/)  
-
 BIOL 540 [Montana State University R Labs for Community Ecologists](http://ecology.msu.montana.edu/labdsv/R/)  
+
+[Simple features vignette. 2019.](https://r-spatial.github.io/sf/articles/sf1.html)  
 
 ## D-Lab workshops
 
