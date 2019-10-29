@@ -20,22 +20,28 @@ Before the workshop be sure to download these three items:
 
 #### Package installation
 
-Be sure to run lines 7 through 18 in the file "1-package-installation.Rmd" to install the packages to be used in this workshop. 
+Be sure to run lines 7 through 21 in the file "1-package-installation.Rmd" to install the packages to be used in this workshop. 
 
 ## Topics
 
-1. The data
+1. Navigating RStudio
+- Top left window pane = input (script or markdown); enter your code here - it is easy to save :^)  
+- Bottom right = output (console); noodle around down here - this is difficult to save :^(  
+- Upper right = global environment (saved variables/data live here)  
+- Bottom right = File structure, plots, package installation, help  
 
-1. [Aquastat datasets for Mexico, USA, and Canada](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)  
+1. Variable assignment
 
-2. [GBIF ](https://www.gbif.org/occurrence/download?dataset_key=8a863029-f435-446a-821e-275f4f641165) (Observation.org, Nature data from the Netherlands simple occurrences; login required)
+- How to save data in R's memory. Variables are simply placeholders for variables and data! 
+
+2. The data
+
+- [Aquastat datasets for Mexico, USA, and Canada](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)  
+
+- [GBIF ](https://www.gbif.org/occurrence/download?dataset_key=8a863029-f435-446a-821e-275f4f641165) (Observation.org, Nature data from the Netherlands simple occurrences; login required)
 - gbif data user agreement: https://www.gbif.org/terms/data-user  
 - gbif citation guidelines: https://www.gbif.org/citation-guidelines  
 - citation: GBIF.org (23 October 2019) GBIF Occurrence Download   https://doi.org/10.15468/dl.jgjalb
-
-2. Variable assignment
-
-- How to save data in R's memory
 
 3. Data types
 
