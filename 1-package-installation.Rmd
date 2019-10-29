@@ -1,0 +1,43 @@
+# Package installation
+
+Run the below code to install 
+
+```{r}
+  # This make take a few minutes to complete
+  install.packages(c(
+                     # Visualizations
+                     "ggplot2", "cowplot",
+                     
+                     # Clustering
+                     "ape", "pvclust", 
+                     
+                     # Map stuff
+                     "ggmap", "sf", "units", "tmap", "nngeo", "raster"), 
+                     
+                     # Install package dependencies
+                     dependencies = TRUE)
+```
+
+If asked "Do you want to install from sources the packages which need compilation? (Yes/no/cancel)" type no and press enter
+
+If you are asked to update any packages, type 1 and press enter
+
+
+```{r}
+suppressMessages(suppressWarnings({  
+  library(ggplot2)
+  library(cowplot)
+  library(ape)
+  library(pvclust)
+  library(ggmap)
+  library(sf)
+  library(units)
+  library(tmap)
+  library(nngeo)
+  library(raster)
+}))
+```
+
+If ggmap does not install properly, try
+
+devtools::install_github("dkahle/ggmap")
