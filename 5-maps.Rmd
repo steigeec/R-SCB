@@ -1,0 +1,63 @@
+# Maps 
+
+Load the gbif data by loading the .RData file from the end of 2-data-import.Rmd
+
+```{r}
+
+```
+
+## 7. ggplot2 and ggmap/Google Maps Static API keys
+
+#### ggplot2
+ggplot2 makes it easy to to plot lat/long coordinates in scatterplot form
+
+```{r}
+
+
+
+```
+
+We can also add color scales based on some other column. Let's use kingdom
+
+```{r}
+
+
+
+```
+
+#### ggmap and Google Maps Static API keys
+
+ggplot2 is fine if you just want to plot points on a coordinate system. However, if you want to add your data to Google Maps, you must first 1) enable the Maps Static API and 2) enable billing by entering your credit card information. Don't worry though, Google gives you a bunch of free credits and will not charge you without your permission. 
+
+1. Visit https://cloud.google.com/
+
+2. Click "Go to console"
+
+3. Login with a gmail account
+
+4. Click the hamburger and then "APIs and Services"
+
+5. Click "+ Enable APIs and Services" and search for "Maps Static API", then click "Enable"
+
+6. Click the hamburger and then "APIs and Services"
+
+7. Click "Credentials" then "Create Credentials" then "API key"
+
+8. You should see a popup window that says "API key created" - click "Restrict key", then select "Restrict key", click the dropdown menu and select "Static Maps API" and then save
+
+9. In the searchbar, type "billing" and select "Billing", click "Manage Billing Accounts" and then "Add Billing Account". Enter your information and select "Save and enable billing"
+
+10. Copy your API key into the below code: 
+
+```{r}
+ggmap::register_google(key = "YOUR API KEY HERE") 
+```
+
+```{r}
+# choose the lat/lon from the first row in the gbif dataset
+ggmap(get_googlemap(center = c(lon = 5.55, lat = 52.00),
+                    zoom = 8, scale = 2,
+                    maptype ='terrain',
+                    color = 'color'))
+```
+
