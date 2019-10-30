@@ -33,7 +33,7 @@ ggplot2 is fine if you just want to plot points on a coordinate system. However,
 
 2. Click "Go to console"
 
-3. Login with a gmail account
+3. Login with a gmail account and click "Create Project" and enter your information
 
 4. Click the hamburger and then "APIs and Services"
 
