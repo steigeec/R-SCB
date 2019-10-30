@@ -50,7 +50,19 @@ Inspect the Aquastat datasets
 
 ```
 
-Merge the Aquastat datasets into one
+`rbind` the Aquastat datasets into one! 
+
+```{r}
+
+
+
+```
+
+"melt" the single Aquastate dataset from wide to long format
+
+```{r}
+
+```
 
 Inspect the GBIF dataset
 

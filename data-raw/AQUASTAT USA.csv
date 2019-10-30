@@ -1,127 +1,127 @@
-﻿Country,Variable,1958-1962,1963-1967,1968-1972,1973-1977,1978-1982,1983-1987,1988-1992,1993-1997,1998-2002,2003-2007,2008-2012,2013-2017,
-United States of America,Total area of the country (excl. coastal waters) (1000 ha),962909,962909,962909,962909,962909,962909,962909,962909,963203,963203,983151,983151,
-United States of America,Arable land area (1000 ha),177095,174487,187545,186552,187765,185742,184080,177592,172977,161880,155108,152262,
-United States of America,Permanent crops area (1000 ha),1896,1820,1755,1741,2034,2034,2100,2500,2730,2600,2600,2600,
-United States of America,Cultivated area (arable land + permanent crops) (1000 ha),178991,176307,189300,188293,189799,187776,186180,180092,175707,164480,157708,154862,
-United States of America,% of total country area cultivated (%),18.59,18.31,19.66,19.55,19.71,19.5,19.34,18.7,18.24,17.08,16.04,15.75,
-United States of America,Total population (1000 inhab),192398,203982,213352,223324,234133,245403,257454,272137,287507,300595,313335,324459,
-United States of America,Rural population (1000 inhab),56490,55820,56051,58609,60324,60789,59866,57921,57007,56747,55812,53776,
-United States of America,Urban population (1000 inhab),135908,148162,157301,164715,173809,184614,197588,214216,230500,243848,257523,270683,
-United States of America,Population density (inhab/km2),19.98,21.18,22.16,23.19,24.32,25.49,26.74,28.26,29.85,31.21,31.87,33,
-United States of America,Gross Domestic Product (GDP) (current US$),6.05E+11,8.62E+11,1.28E+12,2.09E+12,3.34E+12,4.87E+12,6.54E+12,8.61E+12,1.10E+13,1.45E+13,1.62E+13,1.79E+13,
-United States of America,GDP per capita (current US$/inhab),3145,4226,5999,9359,14265,19845,25403,31638,38260,48238,51702,55169,
-United States of America,"Agriculture, value added (% GDP) (%)",,,,,,,,1.383,1.002,1.087,1.241,1.334,
-United States of America,Human Development Index (HDI) [highest = 1] (-),,,,,,,0.859,,0.8832,,0.9115,0.915,
-United States of America,Gender Inequality Index (GII) [equality = 0; inequality = 1) (-),,,,,,,,,,0.288,0.285,0.28,
-United States of America,Long-term average annual precipitation in depth (mm/year),715,715,715,715,715,715,715,715,715,715,715,715,
-United States of America,Long-term average annual precipitation in volume (10^9 m3/year),6885,6885,6885,6885,6885,6885,6885,6885,6887,6887,7030,7030,
-United States of America,National Rainfall Index (NRI) (mm/year),,928.5,952.2,1008,949.2,974.6,1020,1005,938.7,,,,
-United States of America,Surface water produced internally (10^9 m3/year),2662,2662,2662,2662,2662,2662,2662,2662,2662,2662,2662,2662,
-United States of America,Groundwater produced internally (10^9 m3/year),1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,
-United States of America,Overlap between surface water and groundwater (10^9 m3/year),1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,
-United States of America,Total internal renewable water resources (IRWR) (10^9 m3/year),2818,2818,2818,2818,2818,2818,2818,2818,2818,2818,2818,2818,
-United States of America,Total internal renewable water resources per capita (m3/inhab/year),14647,13815,13208,12618,12036,11483,10946,10355,9802,9375,8994,8685,
-United States of America,Surface water: entering the country (total) (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251,
-United States of America,Surface water: inflow not submitted to treaties (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251,
-United States of America,Surface water: inflow submitted to treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Surface water: inflow secured through treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Surface water: total flow of border rivers (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Surface water: accounted flow of border rivers (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Surface water: accounted inflow (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251,
-United States of America,Surface water: leaving the country to other countries (total) (10^9 m3/year),10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,
-United States of America,Surface water: outflow to other countries not submitted to treaties (10^9 m3/year),10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,
-United States of America,Surface water: outflow to other countries submitted to treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Surface water: outflow to other countries secured through treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Surface water: total external renewable (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251,
-United States of America,Groundwater: entering the country (total) (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Groundwater: accounted inflow (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Groundwater: leaving the country to other countries (total) (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Groundwater: accounted outflow to other countries (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0,
-United States of America,Water resources: total external renewable (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251,
-United States of America,Total renewable surface water (10^9 m3/year),2913,2913,2913,2913,2913,2913,2913,2913,2913,2913,2913,2913,
-United States of America,Total renewable groundwater (10^9 m3/year),1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,
-United States of America,Overlap: between surface water and groundwater (10^9 m3/year),1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,
-United States of America,Total renewable water resources (10^9 m3/year),3069,3069,3069,3069,3069,3069,3069,3069,3069,3069,3069,3069,
-United States of America,Dependency ratio (%),8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,
-United States of America,Total renewable water resources per capita (m3/inhab/year),15951,15045,14385,13742,13108,12506,11921,11277,10675,10210,9795,9459,
-United States of America,Total exploitable water resources (10^9 m3/year),1829,1829,1829,1829,1829,1829,1829,1829,1829,1829,1829,,
-United States of America,Interannual variability (WRI) (-),,,,,,,,,,,,2.1,
-United States of America,Seasonal variability (WRI) (-),,,,,,,,,,,,1.7,
-United States of America,Total dam capacity (km3),413,529.8,622.8,675.5,707,718.5,730.2,734.4,735.8,735.9,735.9,735.9,
-United States of America,Dam capacity per capita (m3/inhab),2147,2597,2919,3025,3020,2928,2836,2699,2559,2448,2349,2268,
-United States of America,Agricultural water withdrawal (10^9 m3/year),,,100.1,106.5,117.1,,194.7,,196.5,191.9,175.1,176.2,
-United States of America,Industrial water withdrawal (10^9 m3/year),,,,,,,303.9,,298.8,305.1,248.4,209.7,
-United States of America,Municipal water withdrawal (10^9 m3/year),,,,,,,60.67,,64,65.44,62.09,58.39,
-United States of America,Total water withdrawal (10^9 m3/year),,,,,517.7,,559.3,,559.3,562.4,485.6,444.3,
-United States of America,Irrigation water withdrawal (10^9 m3/year),,,,,,,188.5,,189.1,176.8,159.3,163,
-United States of America,Irrigation water requirement (10^9 m3/year),,,,,,,,,,,108.5,,
-United States of America,Agricultural water withdrawal as % of total water withdrawal (%),,,,,22.62,,34.81,,35.13,34.12,36.06,39.66,
-United States of America,Industrial water withdrawal as % of total water withdrawal (%),,,,,,,54.34,,53.42,54.25,51.15,47.2,
-United States of America,Municipal water withdrawal as % of total withdrawal (%),,,,,,,10.85,,11.44,11.64,12.79,13.14,
-United States of America,Total water withdrawal per capita (m3/inhab/year),,,,,2211,,2172,,1945,1871,1550,1369,
-United States of America,Environmental Flow Requirements (10^9 m3/year),1491,1491,1491,1491,1491,1491,1491,1491,1491,1491,1491,1491,[35]
-United States of America,Fresh surface water withdrawal (primary and secondary) (10^9 m3/year),,,,,402.6,,355.6,,358.6,368.9,313.9,,
-United States of America,Fresh groundwater withdrawal (primary and secondary) (10^9 m3/year),,,,,115,,109.5,,115,109.7,104.9,,
-United States of America,Total freshwater withdrawal (primary and secondary) (10^9 m3/year),,,,,517.6,,465.1,,473.5,478.6,418.7,444.3,
-United States of America,Desalinated water produced (10^9 m3/year),,,,,0.138,0.138,0.58,0.58,0.58,0.58,0.58,,
-United States of America,Direct use of treated municipal wastewater (10^9 m3/year),,,,,,,1.284,1.37,2.345,,2.774,,
-United States of America,Produced municipal wastewater (10^9 m3/year),,,,,,,,,,,60.41,,
-United States of America,Collected municipal wastewater (10^9 m3/year),,,,,,,,,,,47.24,,
-United States of America,Treated municipal wastewater (10^9 m3/year),,,,,,38.3,40.8,44.5,48.22,46.5,45.35,,
-United States of America,Number of municipal wastewater treatment facilities (-),,,,,,15580,15613,16024,16255,16583,14581,,
-United States of America,Capacity of the municipal wastewater treatment facilities (10^9 m3/year),,,,,,50.7,54.4,58.4,62.26,64.16,63.99,,
-United States of America,Not treated municipal wastewater (10^9 m3/year),,,,,,,,,,,15.72,,
-United States of America,Treated municipal wastewater discharged (secondary water) (10^9 m3/year),,,,,,,48.71,,,,41.92,,
-United States of America,Direct use of treated municipal wastewater (10^9 m3/year),,,,,,,1.284,1.37,2.345,,2.774,,
-United States of America,Area equipped for irrigation by direct use of treated municipal wastewater (1000 ha),,,,,,,14.47,,,,,,
-United States of America,MDG 7.5. Freshwater withdrawal as % of total renewable water resources (%),,,,,16.87,,15.15,,15.43,15.59,13.64,14.48,
-United States of America,Agricultural water withdrawal as % of total renewable water resources (%),,,3.262,3.47,3.816,,6.344,,6.403,6.253,5.705,5.741,
-United States of America,SDG 6.4.2. Water Stress (%),,,,,32.8,,29.47,,30.01,30.33,26.53,28.16,
-United States of America,Area equipped for full control irrigation: surface irrigation (1000 ha),,,,,,,,,,12696,12078,,
-United States of America,Area equipped for full control irrigation: sprinkler irrigation (1000 ha),,,,,,,,,,12333,12780,,
-United States of America,Area equipped for full control irrigation: localized irrigation (1000 ha),,,,,,,,,,1615,1850,,
-United States of America,Area equipped for full control irrigation: total (1000 ha),,14996,,16690,26888,26667,27012,27070,26937,26644,26708,,
-United States of America,Area equipped for full control irrigation: actually irrigated (1000 ha),,,,,,,,22779,22384,22905,22590,22387,
-United States of America,% of area equipped for full control irrigation actually irrigated (%),,,,,,,,84.15,83.1,85.97,84.58,,
-United States of America,Area equipped for irrigation: total (1000 ha),,14996,,16690,26888,26667,27012,27070,26937,26644,26708,,
-United States of America,Area equipped for irrigation: actually irrigated (1000 ha),,,,,,,,22779,22384,22905,22590,22387,
-United States of America,% of the area equipped for irrigation actually irrigated (%),,,,,,,,84.15,83.1,85.97,84.58,,
-United States of America,% of the cultivated area equipped for irrigation (%),,8.506,,8.864,14.17,14.2,14.51,15.03,15.33,16.2,16.94,,
-United States of America,Total agricultural water managed area (1000 ha),,14996,,16690,26888,26667,27012,27070,26937,26644,26708,,
-United States of America,% of agricultural water managed area equipped for irrigation (%),,100,,100,100,100,100,100,100,100,100,,
-United States of America,Area equipped for irrigation by surface water (1000 ha),,,,,,,,,,9373,,,
-United States of America,Area equipped for irrigation by groundwater (1000 ha),,,,,,9828,10835,,,17256,,,
-United States of America,Area equipped for irrigation by direct use of treated municipal wastewater (1000 ha),,,,,,,14.47,,,,,,
-United States of America,% of area equipped for irrigation by surface water (%),,,,,,,,,,35.18,,,
-United States of America,% of area equipped for irrigation by groundwater  (%),,,,,,36.85,40.11,,,64.77,,,
-United States of America,% of area equipped for irrigation by direct use of  treated municipal wastewater (%),,,,,,,0.0536,,,,,,
-United States of America,Total harvested irrigated crop area (full control irrigation) (1000 ha),,,,,,,,,,,23275,,
-United States of America,Harvested irrigated temporary crop area: Total (1000 ha),,,,,,,,,,,20216,,
-United States of America,Harvested irrigated permanent crop area: Total (1000 ha),,,,,,,,,,,1598,,
-United States of America,Permanent meadows and pastures irrigated (1000 ha),,,,,,,,,,,1461,,
-United States of America,Irrigated cropping intensity (%),,,,,,,,,,,103,,
-United States of America,Harvested irrigated temporary crop area: Wheat (1000 ha),,,,,,,,,,,1662,,
-United States of America,Harvested irrigated temporary crop area: Rice (1000 ha),,,,,,,,,,,1085,,
-United States of America,Harvested irrigated temporary crop area: Barley (1000 ha),,,,,,,,,,,307.8,,
-United States of America,Harvested irrigated temporary crop area: Maize (1000 ha),,,,,,,,,,,4831,,
-United States of America,Harvested irrigated temporary crop area: Sorghum (1000 ha),,,,,,,,,,,420.5,,
-United States of America,Harvested irrigated temporary crop area: Other cereals (1000 ha),,,,,,,,,,,138.3,,
-United States of America,Harvested irrigated temporary crop area: Vegetables (1000 ha),,,,,,,,,,,1594,,
-United States of America,Harvested irrigated temporary crop area: Soybeans (1000 ha),,,,,,,,,,,2850,,
-United States of America,Harvested irrigated temporary crop area: Groundnuts (1000 ha),,,,,,,,,,,216.5,,
-United States of America,Harvested irrigated temporary crop area: Potatoes (1000 ha),,,,,,,,,,,386.9,,
-United States of America,Harvested irrigated temporary crop area: Leguminous crops (1000 ha),,,,,,,,,,,173.8,,
-United States of America,Harvested irrigated temporary crop area: Sugar beet (1000 ha),,,,,,,,,,,154.7,,
-United States of America,Harvested irrigated temporary crop area: Fodder (1000 ha),,,,,,,,,,,4520,,
-United States of America,Harvested irrigated temporary crop area: Cotton (1000 ha),,,,,,,,,,,1264,,
-United States of America,Harvested irrigated temporary crop area: Tobacco (1000 ha),,,,,,,,,,,9.351,,
-United States of America,Harvested irrigated temporary crop area: Other crops (1000 ha),,,,,,,,,,,601.1,,
-United States of America,Harvested irrigated permanent crop area: Other fruits (1000 ha),,,,,,,,,,,1599,,
-United States of America,Conservation agriculture area (1000 ha),,,,2200,,4800,6839,17361,22400,26500,35613,,
-United States of America,Conservation agriculture area as % of arable land area (%),,,,1.179,,2.584,3.715,9.776,12.95,16.37,22.96,,
-United States of America,Area salinized by irrigation (1000 ha),,,,,,4200,,,,,,,
-United States of America,% of area equipped for irrigation salinized (%),,,,,,15.75,,,,,,,
-United States of America,Flood occurrence (WRI) (-),,,,,,,,,,,,3.1,
-United States of America,Total population with access to safe drinking-water (JMP) (%),,,,,,,98.5,98.7,98.9,99,99.1,99.2,
-United States of America,Rural population with access to safe drinking-water (JMP) (%),,,,,,,94.4,95.3,96.2,97.1,98,98.2,
-United States of America,Urban population with access to safe drinking-water (JMP) (%),,,,,,,99.7,99.7,99.6,99.5,99.4,99.4,
+﻿Country,Variable,1958-1962,1963-1967,1968-1972,1973-1977,1978-1982,1983-1987,1988-1992,1993-1997,1998-2002,2003-2007,2008-2012,2013-2017
+United States of America,Total area of the country (excl. coastal waters) (1000 ha),962909,962909,962909,962909,962909,962909,962909,962909,963203,963203,983151,983151
+United States of America,Arable land area (1000 ha),177095,174487,187545,186552,187765,185742,184080,177592,172977,161880,155108,152262
+United States of America,Permanent crops area (1000 ha),1896,1820,1755,1741,2034,2034,2100,2500,2730,2600,2600,2600
+United States of America,Cultivated area (arable land + permanent crops) (1000 ha),178991,176307,189300,188293,189799,187776,186180,180092,175707,164480,157708,154862
+United States of America,% of total country area cultivated (%),18.59,18.31,19.66,19.55,19.71,19.5,19.34,18.7,18.24,17.08,16.04,15.75
+United States of America,Total population (1000 inhab),192398,203982,213352,223324,234133,245403,257454,272137,287507,300595,313335,324459
+United States of America,Rural population (1000 inhab),56490,55820,56051,58609,60324,60789,59866,57921,57007,56747,55812,53776
+United States of America,Urban population (1000 inhab),135908,148162,157301,164715,173809,184614,197588,214216,230500,243848,257523,270683
+United States of America,Population density (inhab/km2),19.98,21.18,22.16,23.19,24.32,25.49,26.74,28.26,29.85,31.21,31.87,33
+United States of America,Gross Domestic Product (GDP) (current US$),6.05E+11,8.62E+11,1.28E+12,2.09E+12,3.34E+12,4.87E+12,6.54E+12,8.61E+12,1.10E+13,1.45E+13,1.62E+13,1.79E+13
+United States of America,GDP per capita (current US$/inhab),3145,4226,5999,9359,14265,19845,25403,31638,38260,48238,51702,55169
+United States of America,"Agriculture, value added (% GDP) (%)",,,,,,,,1.383,1.002,1.087,1.241,1.334
+United States of America,Human Development Index (HDI) [highest = 1] (-),,,,,,,0.859,,0.8832,,0.9115,0.915
+United States of America,Gender Inequality Index (GII) [equality = 0; inequality = 1) (-),,,,,,,,,,0.288,0.285,0.28
+United States of America,Long-term average annual precipitation in depth (mm/year),715,715,715,715,715,715,715,715,715,715,715,715
+United States of America,Long-term average annual precipitation in volume (10^9 m3/year),6885,6885,6885,6885,6885,6885,6885,6885,6887,6887,7030,7030
+United States of America,National Rainfall Index (NRI) (mm/year),,928.5,952.2,1008,949.2,974.6,1020,1005,938.7,,,
+United States of America,Surface water produced internally (10^9 m3/year),2662,2662,2662,2662,2662,2662,2662,2662,2662,2662,2662,2662
+United States of America,Groundwater produced internally (10^9 m3/year),1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383
+United States of America,Overlap between surface water and groundwater (10^9 m3/year),1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227
+United States of America,Total internal renewable water resources (IRWR) (10^9 m3/year),2818,2818,2818,2818,2818,2818,2818,2818,2818,2818,2818,2818
+United States of America,Total internal renewable water resources per capita (m3/inhab/year),14647,13815,13208,12618,12036,11483,10946,10355,9802,9375,8994,8685
+United States of America,Surface water: entering the country (total) (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251
+United States of America,Surface water: inflow not submitted to treaties (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251
+United States of America,Surface water: inflow submitted to treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Surface water: inflow secured through treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Surface water: total flow of border rivers (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Surface water: accounted flow of border rivers (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Surface water: accounted inflow (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251
+United States of America,Surface water: leaving the country to other countries (total) (10^9 m3/year),10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5
+United States of America,Surface water: outflow to other countries not submitted to treaties (10^9 m3/year),10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5,10.5
+United States of America,Surface water: outflow to other countries submitted to treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Surface water: outflow to other countries secured through treaties (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Surface water: total external renewable (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251
+United States of America,Groundwater: entering the country (total) (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Groundwater: accounted inflow (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Groundwater: leaving the country to other countries (total) (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Groundwater: accounted outflow to other countries (10^9 m3/year),0,0,0,0,0,0,0,0,0,0,0,0
+United States of America,Water resources: total external renewable (10^9 m3/year),251,251,251,251,251,251,251,251,251,251,251,251
+United States of America,Total renewable surface water (10^9 m3/year),2913,2913,2913,2913,2913,2913,2913,2913,2913,2913,2913,2913
+United States of America,Total renewable groundwater (10^9 m3/year),1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383,1383
+United States of America,Overlap: between surface water and groundwater (10^9 m3/year),1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227,1227
+United States of America,Total renewable water resources (10^9 m3/year),3069,3069,3069,3069,3069,3069,3069,3069,3069,3069,3069,3069
+United States of America,Dependency ratio (%),8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179,8.179
+United States of America,Total renewable water resources per capita (m3/inhab/year),15951,15045,14385,13742,13108,12506,11921,11277,10675,10210,9795,9459
+United States of America,Total exploitable water resources (10^9 m3/year),1829,1829,1829,1829,1829,1829,1829,1829,1829,1829,1829,
+United States of America,Interannual variability (WRI) (-),,,,,,,,,,,,2.1
+United States of America,Seasonal variability (WRI) (-),,,,,,,,,,,,1.7
+United States of America,Total dam capacity (km3),413,529.8,622.8,675.5,707,718.5,730.2,734.4,735.8,735.9,735.9,735.9
+United States of America,Dam capacity per capita (m3/inhab),2147,2597,2919,3025,3020,2928,2836,2699,2559,2448,2349,2268
+United States of America,Agricultural water withdrawal (10^9 m3/year),,,100.1,106.5,117.1,,194.7,,196.5,191.9,175.1,176.2
+United States of America,Industrial water withdrawal (10^9 m3/year),,,,,,,303.9,,298.8,305.1,248.4,209.7
+United States of America,Municipal water withdrawal (10^9 m3/year),,,,,,,60.67,,64,65.44,62.09,58.39
+United States of America,Total water withdrawal (10^9 m3/year),,,,,517.7,,559.3,,559.3,562.4,485.6,444.3
+United States of America,Irrigation water withdrawal (10^9 m3/year),,,,,,,188.5,,189.1,176.8,159.3,163
+United States of America,Irrigation water requirement (10^9 m3/year),,,,,,,,,,,108.5,
+United States of America,Agricultural water withdrawal as % of total water withdrawal (%),,,,,22.62,,34.81,,35.13,34.12,36.06,39.66
+United States of America,Industrial water withdrawal as % of total water withdrawal (%),,,,,,,54.34,,53.42,54.25,51.15,47.2
+United States of America,Municipal water withdrawal as % of total withdrawal (%),,,,,,,10.85,,11.44,11.64,12.79,13.14
+United States of America,Total water withdrawal per capita (m3/inhab/year),,,,,2211,,2172,,1945,1871,1550,1369
+United States of America,Environmental Flow Requirements (10^9 m3/year),1491,1491,1491,1491,1491,1491,1491,1491,1491,1491,1491,1491
+United States of America,Fresh surface water withdrawal (primary and secondary) (10^9 m3/year),,,,,402.6,,355.6,,358.6,368.9,313.9,
+United States of America,Fresh groundwater withdrawal (primary and secondary) (10^9 m3/year),,,,,115,,109.5,,115,109.7,104.9,
+United States of America,Total freshwater withdrawal (primary and secondary) (10^9 m3/year),,,,,517.6,,465.1,,473.5,478.6,418.7,444.3
+United States of America,Desalinated water produced (10^9 m3/year),,,,,0.138,0.138,0.58,0.58,0.58,0.58,0.58,
+United States of America,Direct use of treated municipal wastewater (10^9 m3/year),,,,,,,1.284,1.37,2.345,,2.774,
+United States of America,Produced municipal wastewater (10^9 m3/year),,,,,,,,,,,60.41,
+United States of America,Collected municipal wastewater (10^9 m3/year),,,,,,,,,,,47.24,
+United States of America,Treated municipal wastewater (10^9 m3/year),,,,,,38.3,40.8,44.5,48.22,46.5,45.35,
+United States of America,Number of municipal wastewater treatment facilities (-),,,,,,15580,15613,16024,16255,16583,14581,
+United States of America,Capacity of the municipal wastewater treatment facilities (10^9 m3/year),,,,,,50.7,54.4,58.4,62.26,64.16,63.99,
+United States of America,Not treated municipal wastewater (10^9 m3/year),,,,,,,,,,,15.72,
+United States of America,Treated municipal wastewater discharged (secondary water) (10^9 m3/year),,,,,,,48.71,,,,41.92,
+United States of America,Direct use of treated municipal wastewater (10^9 m3/year),,,,,,,1.284,1.37,2.345,,2.774,
+United States of America,Area equipped for irrigation by direct use of treated municipal wastewater (1000 ha),,,,,,,14.47,,,,,
+United States of America,MDG 7.5. Freshwater withdrawal as % of total renewable water resources (%),,,,,16.87,,15.15,,15.43,15.59,13.64,14.48
+United States of America,Agricultural water withdrawal as % of total renewable water resources (%),,,3.262,3.47,3.816,,6.344,,6.403,6.253,5.705,5.741
+United States of America,SDG 6.4.2. Water Stress (%),,,,,32.8,,29.47,,30.01,30.33,26.53,28.16
+United States of America,Area equipped for full control irrigation: surface irrigation (1000 ha),,,,,,,,,,12696,12078,
+United States of America,Area equipped for full control irrigation: sprinkler irrigation (1000 ha),,,,,,,,,,12333,12780,
+United States of America,Area equipped for full control irrigation: localized irrigation (1000 ha),,,,,,,,,,1615,1850,
+United States of America,Area equipped for full control irrigation: total (1000 ha),,14996,,16690,26888,26667,27012,27070,26937,26644,26708,
+United States of America,Area equipped for full control irrigation: actually irrigated (1000 ha),,,,,,,,22779,22384,22905,22590,22387
+United States of America,% of area equipped for full control irrigation actually irrigated (%),,,,,,,,84.15,83.1,85.97,84.58,
+United States of America,Area equipped for irrigation: total (1000 ha),,14996,,16690,26888,26667,27012,27070,26937,26644,26708,
+United States of America,Area equipped for irrigation: actually irrigated (1000 ha),,,,,,,,22779,22384,22905,22590,22387
+United States of America,% of the area equipped for irrigation actually irrigated (%),,,,,,,,84.15,83.1,85.97,84.58,
+United States of America,% of the cultivated area equipped for irrigation (%),,8.506,,8.864,14.17,14.2,14.51,15.03,15.33,16.2,16.94,
+United States of America,Total agricultural water managed area (1000 ha),,14996,,16690,26888,26667,27012,27070,26937,26644,26708,
+United States of America,% of agricultural water managed area equipped for irrigation (%),,100,,100,100,100,100,100,100,100,100,
+United States of America,Area equipped for irrigation by surface water (1000 ha),,,,,,,,,,9373,,
+United States of America,Area equipped for irrigation by groundwater (1000 ha),,,,,,9828,10835,,,17256,,
+United States of America,Area equipped for irrigation by direct use of treated municipal wastewater (1000 ha),,,,,,,14.47,,,,,
+United States of America,% of area equipped for irrigation by surface water (%),,,,,,,,,,35.18,,
+United States of America,% of area equipped for irrigation by groundwater  (%),,,,,,36.85,40.11,,,64.77,,
+United States of America,% of area equipped for irrigation by direct use of  treated municipal wastewater (%),,,,,,,0.0536,,,,,
+United States of America,Total harvested irrigated crop area (full control irrigation) (1000 ha),,,,,,,,,,,23275,
+United States of America,Harvested irrigated temporary crop area: Total (1000 ha),,,,,,,,,,,20216,
+United States of America,Harvested irrigated permanent crop area: Total (1000 ha),,,,,,,,,,,1598,
+United States of America,Permanent meadows and pastures irrigated (1000 ha),,,,,,,,,,,1461,
+United States of America,Irrigated cropping intensity (%),,,,,,,,,,,103,
+United States of America,Harvested irrigated temporary crop area: Wheat (1000 ha),,,,,,,,,,,1662,
+United States of America,Harvested irrigated temporary crop area: Rice (1000 ha),,,,,,,,,,,1085,
+United States of America,Harvested irrigated temporary crop area: Barley (1000 ha),,,,,,,,,,,307.8,
+United States of America,Harvested irrigated temporary crop area: Maize (1000 ha),,,,,,,,,,,4831,
+United States of America,Harvested irrigated temporary crop area: Sorghum (1000 ha),,,,,,,,,,,420.5,
+United States of America,Harvested irrigated temporary crop area: Other cereals (1000 ha),,,,,,,,,,,138.3,
+United States of America,Harvested irrigated temporary crop area: Vegetables (1000 ha),,,,,,,,,,,1594,
+United States of America,Harvested irrigated temporary crop area: Soybeans (1000 ha),,,,,,,,,,,2850,
+United States of America,Harvested irrigated temporary crop area: Groundnuts (1000 ha),,,,,,,,,,,216.5,
+United States of America,Harvested irrigated temporary crop area: Potatoes (1000 ha),,,,,,,,,,,386.9,
+United States of America,Harvested irrigated temporary crop area: Leguminous crops (1000 ha),,,,,,,,,,,173.8,
+United States of America,Harvested irrigated temporary crop area: Sugar beet (1000 ha),,,,,,,,,,,154.7,
+United States of America,Harvested irrigated temporary crop area: Fodder (1000 ha),,,,,,,,,,,4520,
+United States of America,Harvested irrigated temporary crop area: Cotton (1000 ha),,,,,,,,,,,1264,
+United States of America,Harvested irrigated temporary crop area: Tobacco (1000 ha),,,,,,,,,,,9.351,
+United States of America,Harvested irrigated temporary crop area: Other crops (1000 ha),,,,,,,,,,,601.1,
+United States of America,Harvested irrigated permanent crop area: Other fruits (1000 ha),,,,,,,,,,,1599,
+United States of America,Conservation agriculture area (1000 ha),,,,2200,,4800,6839,17361,22400,26500,35613,
+United States of America,Conservation agriculture area as % of arable land area (%),,,,1.179,,2.584,3.715,9.776,12.95,16.37,22.96,
+United States of America,Area salinized by irrigation (1000 ha),,,,,,4200,,,,,,
+United States of America,% of area equipped for irrigation salinized (%),,,,,,15.75,,,,,,
+United States of America,Flood occurrence (WRI) (-),,,,,,,,,,,,3.1
+United States of America,Total population with access to safe drinking-water (JMP) (%),,,,,,,98.5,98.7,98.9,99,99.1,99.2
+United States of America,Rural population with access to safe drinking-water (JMP) (%),,,,,,,94.4,95.3,96.2,97.1,98,98.2
+United States of America,Urban population with access to safe drinking-water (JMP) (%),,,,,,,99.7,99.7,99.6,99.5,99.4,99.4

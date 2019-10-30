@@ -84,4 +84,3 @@ Be sure to click "Shut Down" on your Google Cloud project when you are done so t
 ```{r}
 ggsave(file = "visualizations/gbif_kingdom.pdf")
 ```
-
