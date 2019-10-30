@@ -74,4 +74,7 @@ ggmap(gbif_map)
 ggmap(gbif_map) + 
   geom_point(data = g, 
              aes(x = decimalLongitude, y = decimalLatitude, 
-                 col=kingdom))
+                 col = kingdom))
+```
+
+Be sure to click "Shut Down" on your Google Cloud project so that it does not run in perpetuity :) 
