@@ -67,7 +67,7 @@ Now, we can plot the rest of the data on the Google Map
 ```{r}
 gbif_center_point = c(lon = 5.55, lat = 52.00)
 
-gbif_map = get_map(gbif_center_point) 
+gbif_map = get_map(gbif_center_point, zoom = 7) 
 
 ggmap(gbif_map)
 
@@ -77,4 +77,11 @@ ggmap(gbif_map) +
                  col = kingdom))
 ```
 
-Be sure to click "Shut Down" on your Google Cloud project so that it does not run in perpetuity :) 
+Be sure to click "Shut Down" on your Google Cloud project when you are done so that it does not run in perpetuity :) 
+
+#### Save your figure
+
+```{r}
+ggsave(file = "visualizations/gbif_kingdom.pdf")
+```
+
